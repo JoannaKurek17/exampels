@@ -1,0 +1,12 @@
+{
+  "name": "2_mongo_basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "mongoose": "^5.7.10"
+  }
+}
